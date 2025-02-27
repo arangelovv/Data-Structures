@@ -8,13 +8,7 @@ A comprehensive repository that explains various data structures and provides co
 
 1. [Introduction](#introduction)
 2. [Data Structures Covered](#data-structures-covered)
-3. [Folder Structure](#folder-structure)
-4. [Getting Started](#getting-started)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Contact](#contact)
-
+   
 ---
 
 ## Introduction
